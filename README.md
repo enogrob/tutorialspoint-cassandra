@@ -16,10 +16,10 @@ Learn everything you need to about the subject of this `Tutorialspoint` project.
 ## Topics
 ```
 Cassandra Tutorial
-[ ] Home
-[ ] Introduction
-[ ] Architecture
-[ ] Data Model
+[x] Home
+[x] Introduction
+[x] Architecture
+[x] Data Model
 [ ] Installation
 [ ] Referenced Api
 [ ] Cqlsh
