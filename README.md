@@ -20,10 +20,10 @@ Cassandra Tutorial
 [x] Introduction
 [x] Architecture
 [x] Data Model
-[ ] Installation
-[ ] Referenced Api
-[ ] Cqlsh
-[ ] Shell Commands
+[x] Installation
+[x] Referenced Api
+[x] Cqlsh
+[x] Shell Commands
 Cassandra Keyspace Operations
 [ ] Create Keyspace
 [ ] Alter Keyspace
