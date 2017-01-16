@@ -25,7 +25,7 @@ Cassandra Tutorial
 [x] Cqlsh
 [x] Shell Commands
 Cassandra Keyspace Operations
-[ ] Create Keyspace
+[x] Create Keyspace
 [ ] Alter Keyspace
 [ ] Drop Keyspace
 Cassandra Table Operations
