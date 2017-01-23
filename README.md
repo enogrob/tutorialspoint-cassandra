@@ -26,7 +26,7 @@ Cassandra Tutorial
 [x] Shell Commands
 Cassandra Keyspace Operations
 [x] Create Keyspace
-[ ] Alter Keyspace
+[x] Alter Keyspace
 [ ] Drop Keyspace
 Cassandra Table Operations
 [ ] Create Table
